@@ -1,0 +1,27 @@
+# Insert a direct product-page URL for each item. A separate entry can be added
+# for the same part at another shop. Leave target_price_uah empty to get only
+# price-change messages.
+
+[[products]]
+id = "mobil-1-5w-20"
+name = "Mobil 1 5W-20"
+url = ""
+currency = "UAH"
+target_price_uah = ""
+price_selector = ""
+
+[[products]]
+id = "wix-57060"
+name = "WIX 57060"
+url = ""
+currency = "UAH"
+target_price_uah = ""
+price_selector = ""
+
+[[products]]
+id = "mopar-68191349ac"
+name = "Mopar 68191349AC"
+url = ""
+currency = "UAH"
+target_price_uah = ""
+price_selector = ""
